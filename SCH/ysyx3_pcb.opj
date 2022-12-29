@@ -206,24 +206,24 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 227"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 227"))
       (Tab 0))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1302 78 344"))
-      (Path "g:\project_development\github\ysyx3-pcb\sch\ysyx3_pcb.drc")
-      (Scroll "105"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1302 78 344")
-        (Scroll "378 101")
-        (Zoom "82")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1302 78 344")
+        (Scroll "1450 171")
+        (Zoom "164")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\YSYX3-PCB\SCH\YSYX3_PCB.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+      (Page "PAGE1"))
+    (Doc
+      (Type "TextFile")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1276 52 318"))
+      (Path "g:\project_development\github\ysyx3-pcb\sch\ysyx3_pcb.drc")
+      (Scroll "73")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "G:\project_development\GitHub\cadence_sch_lib")

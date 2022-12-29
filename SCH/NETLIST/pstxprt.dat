@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Dec-25-2022 at 21:28:32 }
+{ Using PSTWRITER 16.6.0 d001Dec-29-2022 at 14:43:20 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='YSYX3_PCB';
@@ -78,22 +78,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C16 'CAPACITOR-NON-POL_C0402_10UF':;
-
-SECTION_NUMBER 1
- '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS3762@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
- C_PATH='@ysyx3_pcb.schematic1(sch_1):ins3762@\all\.\capacitor-non-pol.normal\(chips)',
- P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins3762@\all\.\capacitor-non-pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C17 'CAPACITOR-NON-POL_C0402_0.1UF':;
+ C16 'CAPACITOR-NON-POL_C0402_0.1UF':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS3830@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
  C_PATH='@ysyx3_pcb.schematic1(sch_1):ins3830@\all\.\capacitor-non-pol.normal\(chips)',
  P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins3830@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS3762@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins3762@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins3762@\all\.\capacitor-non-pol.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1005,7 +1005,27 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R21 'RESISTOR_R0402_33R':;
+ R21 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS341716@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins341716@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins341716@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS341732@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins341732@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins341732@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_R0402_33R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106645@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1015,17 +1035,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R22 'RESISTOR_R0402_5K':;
-
-SECTION_NUMBER 1
- '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS107278@ALL.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@ysyx3_pcb.schematic1(sch_1):ins107278@\all\.\resistor.normal\(chips)',
- P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins107278@\all\.\resistor.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R23 'RESISTOR_R0402_5K':;
+ R24 'RESISTOR_R0402_5K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS107322@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1035,7 +1045,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R24 'RESISTOR_R0402_4.7K':;
+ R25 'RESISTOR_R0402_4.7K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS86926@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1045,7 +1055,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R25 'RESISTOR_R0402_33R':;
+ R26 'RESISTOR_R0402_33R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106930@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1055,7 +1065,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R26 'RESISTOR_R0402_4.7K':;
+ R27 'RESISTOR_R0402_4.7K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS86874@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1065,7 +1075,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R27 'RESISTOR_R0402_5K':;
+ R28 'RESISTOR_R0402_5K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS107374@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1075,22 +1085,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R28 'RESISTOR_R0402_4.7K':;
+ R29 'RESISTOR_R0402_4.7K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS86900@ALL.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@ysyx3_pcb.schematic1(sch_1):ins86900@\all\.\resistor.normal\(chips)',
  P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins86900@\all\.\resistor.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R29 'RESISTOR_R0402_33R':;
-
-SECTION_NUMBER 1
- '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106904@ALL.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@ysyx3_pcb.schematic1(sch_1):ins106904@\all\.\resistor.normal\(chips)',
- P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins106904@\all\.\resistor.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1108,6 +1108,26 @@ PART_NAME
  R30 'RESISTOR_R0402_5K':;
 
 SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS107278@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins107278@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins107278@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106904@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins106904@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins106904@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS107348@ALL.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@ysyx3_pcb.schematic1(sch_1):ins107348@\all\.\resistor.normal\(chips)',
  P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins107348@\all\.\resistor.normal\(chips)',
@@ -1115,7 +1135,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R31 'RESISTOR_R0402_33R':;
+ R33 'RESISTOR_R0402_33R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106956@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1125,7 +1145,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R32 'RESISTOR_R0402_33R':;
+ R34 'RESISTOR_R0402_33R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS88456@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1135,7 +1155,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R33 'RESISTOR_R0402_0R':;
+ R35 'RESISTOR_R0402_0R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS274472@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1145,7 +1165,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R34 'RESISTOR_R0402_0R':;
+ R36 'RESISTOR_R0402_0R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS275274@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1155,7 +1175,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R35 'RESISTOR_R0402_4.7K':;
+ R37 'RESISTOR_R0402_4.7K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS87089@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1165,7 +1185,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R36 'RESISTOR_R0402_33R':;
+ R38 'RESISTOR_R0402_33R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS114976@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1175,32 +1195,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R37 'RESISTOR_R0402_33R':;
+ R39 'RESISTOR_R0402_33R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS114992@ALL.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@ysyx3_pcb.schematic1(sch_1):ins114992@\all\.\resistor.normal\(chips)',
  P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins114992@\all\.\resistor.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R38 'RESISTOR_R0402_5K':;
-
-SECTION_NUMBER 1
- '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115471@ALL.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115471@\all\.\resistor.normal\(chips)',
- P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115471@\all\.\resistor.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R39 'RESISTOR_R0402_4.7K':;
-
-SECTION_NUMBER 1
- '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS87115@ALL.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@ysyx3_pcb.schematic1(sch_1):ins87115@\all\.\resistor.normal\(chips)',
- P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins87115@\all\.\resistor.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1218,6 +1218,26 @@ PART_NAME
  R40 'RESISTOR_R0402_5K':;
 
 SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115471@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115471@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115471@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS87115@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins87115@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins87115@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115487@ALL.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115487@\all\.\resistor.normal\(chips)',
  P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115487@\all\.\resistor.normal\(chips)',
@@ -1225,7 +1245,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R41 'RESISTOR_R0402_33R':;
+ R43 'RESISTOR_R0402_33R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115008@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1235,7 +1255,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R42 'RESISTOR_R0402_5K':;
+ R44 'RESISTOR_R0402_5K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115509@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1245,7 +1265,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R43 'RESISTOR_R0402_4.7K':;
+ R45 'RESISTOR_R0402_4.7K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS87141@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1255,7 +1275,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R44 'RESISTOR_R0402_33R':;
+ R46 'RESISTOR_R0402_33R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115128@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1265,7 +1285,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R45 'RESISTOR_R0402_5K':;
+ R47 'RESISTOR_R0402_5K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115931@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1275,7 +1295,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R46 'RESISTOR_R0402_33R':;
+ R48 'RESISTOR_R0402_33R':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115156@ALL.RESISTOR.NORMAL(CHIPS)':
@@ -1285,22 +1305,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R47 'RESISTOR_R0402_5K':;
+ R49 'RESISTOR_R0402_5K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115957@ALL.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115957@\all\.\resistor.normal\(chips)',
  P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115957@\all\.\resistor.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R48 'RESISTOR_R0402_4.7K':;
-
-SECTION_NUMBER 1
- '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS130502@ALL.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@ysyx3_pcb.schematic1(sch_1):ins130502@\all\.\resistor.normal\(chips)',
- P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins130502@\all\.\resistor.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1315,6 +1325,16 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R50 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS130502@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins130502@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins130502@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R6 'RESISTOR_R0402_4.7K':;
 
 SECTION_NUMBER 1
@@ -1325,22 +1345,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R7 'RESISTOR_R0402_56K':;
-
-SECTION_NUMBER 1
- '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS3019@ALL.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@ysyx3_pcb.schematic1(sch_1):ins3019@\all\.\resistor.normal\(chips)',
- P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins3019@\all\.\resistor.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R8 'RESISTOR_R0402_1K':;
+ R7 'RESISTOR_R0402_1K':;
 
 SECTION_NUMBER 1
  '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS2919@ALL.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@ysyx3_pcb.schematic1(sch_1):ins2919@\all\.\resistor.normal\(chips)',
  P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins2919@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_R0402_56K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS3019@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins3019@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins3019@\all\.\resistor.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
