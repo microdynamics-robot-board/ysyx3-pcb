@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ysyx3_pcb.brd                                 )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Sun Dec 25 21:32:28 2022                      )
+(    Date/Time        : Thu Dec 29 19:19:03 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            '.'
 Old design name:             'G:/project_development/GitHub/ysyx3-pcb/PCB/ysyx3_pcb.brd'
 New design name:             'G:/project_development/GitHub/ysyx3-pcb/PCB/ysyx3_pcb.brd'
 
-CmdLine: netrev -$ -i G:/project_development/GitHub/ysyx3-pcb/SCH/NETLIST -y 1 -z -q netrev_constraint_report.xml G:/project_development/GitHub/ysyx3-pcb/PCB/#Taaaabt01480.tmp
+CmdLine: netrev -$ -i G:/project_development/GitHub/ysyx3-pcb/SCH/NETLIST -y 1 -z -q netrev_constraint_report.xml G:/project_development/GitHub/ysyx3-pcb/PCB/#Taaaadu09940.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read G:/project_development/GitHub/ysyx3-pcb/SCH/NETLIST/pstchip.dat 
-   Finished reading G:/project_development/GitHub/ysyx3-pcb/SCH/NETLIST/pstchip.dat (00:00:00.09)
+   Finished reading G:/project_development/GitHub/ysyx3-pcb/SCH/NETLIST/pstchip.dat (00:00:00.05)
 Starting to read G:/project_development/GitHub/ysyx3-pcb/SCH/NETLIST/pstxprt.dat 
    Finished reading G:/project_development/GitHub/ysyx3-pcb/SCH/NETLIST/pstxprt.dat (00:00:00.00)
 Starting to read G:/project_development/GitHub/ysyx3-pcb/SCH/NETLIST/pstxnet.dat 
@@ -65,7 +65,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Dec 25 21:32:28 2022
+netrev run on Dec 29 19:19:03 2022
    DESIGN NAME : 'YSYX3_PCB'
    PACKAGING ON Feb 15 2016 19:53:59
 
@@ -90,6 +90,6 @@ netrev run on Dec 25 21:32:28 2022
  No oversight detected
  No warning detected
 
-cpu time      0:02:22
+cpu time      0:01:10
 elapsed time  0:00:01
 
