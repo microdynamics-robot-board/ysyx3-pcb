@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Dec-29-2022 at 14:43:20}
+{ Using PSTWRITER 16.6.0 d001Dec-29-2022 at 19:18:55}
 primitive 'CAPACITOR-NON-POL_C0402_0.1UF';
   pin
     '1':
@@ -30,7 +30,7 @@ primitive 'CAPACITOR-NON-POL_C0402_1UF';
     VALUE='1uF';
   end_body;
 end_primitive;
-primitive 'CAPACITOR-NON-POL_C0402_10UF';
+primitive 'CAPACITOR-NON-POL_C0603_10UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -41,7 +41,7 @@ primitive 'CAPACITOR-NON-POL_C0402_10UF';
   end_pin;
   body
     PART_NAME='CAPACITOR-NON-POL';
-    JEDEC_TYPE='C0402';
+    JEDEC_TYPE='C0603';
     VALUE='10uF';
   end_body;
 end_primitive;
