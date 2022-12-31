@@ -3,63 +3,52 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  G:/project_development/GitHub/ysyx3-pcb/PCB/ysyx3_pcb.brd                   |
-|                                                    Thu Dec 29 19:19:03 2022  |
+|                                                    Sat Dec 31 13:00:53 2022  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- CAPACITOR-NON-POL_C0603_10UF
+  CHIPLINK_RX_DATA18 pins MOVED FROM this net (to net name listed on right)
+                                 J1.95           1464.57 2361.42
+                                                             CHIPLINK_RX_DATA17
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CHIPLINK_TX_DATA10 pins MOVED FROM this net (to net name listed on right)
+                                 J1.97           1488.19 2361.42
+                                                             CHIPLINK_RX_DATA18
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CHIPLINK_TX_DATA11 pins MOVED FROM this net (to net name listed on right)
+                                 J1.101          1535.43 2361.42
+                                                             CHIPLINK_RX_DATA19
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CHIPLINK_TX_DATA14 pins MOVED FROM this net (to net name listed on right)
+                                 J1.103          1559.06 2361.42
+                                                             CHIPLINK_RX_DATA20
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CHIPLINK_TX_DATA21 pins MOVED FROM this net (to net name listed on right)
+                                 J1.107          1606.30 2361.42
+                                                             CHIPLINK_RX_DATA21
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CHIPLINK_TX_DATA22 pins MOVED FROM this net (to net name listed on right)
+                                 J1.109          1629.92 2361.42
+                                                             CHIPLINK_RX_DATA22
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CHIPLINK_TX_DATA24 pins MOVED FROM this net (to net name listed on right)
+                                 J1.113          1677.17 2361.42
+                                                             CHIPLINK_RX_DATA23
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  G:/project_development/GitHub/ysyx3-pcb/PCB/ysyx3_pcb.brd                   |
-|                                                    Thu Dec 29 19:19:03 2022  |
+|                                                    Sat Dec 31 13:00:53 2022  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C3                  CAPACITOR-NON-POL_C0603_10UF 3153.29 1050.20 CAPACITOR-NON-POL_C0402_10UF
- C4                  CAPACITOR-NON-POL_C0603_10UF 3229.15 1050.20 CAPACITOR-NON-POL_C0402_10UF
- C6                  CAPACITOR-NON-POL_C0603_10UF 2599.34  870.89 CAPACITOR-NON-POL_C0402_10UF
- C13                 CAPACITOR-NON-POL_C0603_10UF 3569.21 1544.28 CAPACITOR-NON-POL_C0402_10UF
- C14                 CAPACITOR-NON-POL_C0603_10UF 3645.07 1544.28 CAPACITOR-NON-POL_C0402_10UF
- C15                 CAPACITOR-NON-POL_C0603_10UF 3720.93 1544.28 CAPACITOR-NON-POL_C0402_10UF
- C17                 CAPACITOR-NON-POL_C0603_10UF 3872.65 1544.28 CAPACITOR-NON-POL_C0402_10UF
- C19                 CAPACITOR-NON-POL_C0603_10UF 4024.37 1544.28 CAPACITOR-NON-POL_C0402_10UF
- C20                 CAPACITOR-NON-POL_C0603_10UF 4176.09 1544.28 CAPACITOR-NON-POL_C0402_10UF
- C22                 CAPACITOR-NON-POL_C0603_10UF 4327.81 1544.28 CAPACITOR-NON-POL_C0402_10UF
- C25                 CAPACITOR-NON-POL_C0603_10UF 4555.39 1544.28 CAPACITOR-NON-POL_C0402_10UF
- C70                 CAPACITOR-NON-POL_C0603_10UF  934.11  722.22 CAPACITOR-NON-POL_C0402_10UF
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  G:/project_development/GitHub/ysyx3-pcb/PCB/ysyx3_pcb.brd                   |
-|                                                    Thu Dec 29 19:19:03 2022  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C3.2           3153.29 1050.20 PRIM_FILE      .\pstchip.dat
- C4.2           3229.15 1050.20 PRIM_FILE      .\pstchip.dat
- C6.2           2599.34  870.89 PRIM_FILE      .\pstchip.dat
- C13.2          3569.21 1544.28 PRIM_FILE      .\pstchip.dat
- C14.2          3645.07 1544.28 PRIM_FILE      .\pstchip.dat
- C15.2          3720.93 1544.28 PRIM_FILE      .\pstchip.dat
- C17.2          3872.65 1544.28 PRIM_FILE      .\pstchip.dat
- C19.2          4024.37 1544.28 PRIM_FILE      .\pstchip.dat
- C20.2          4176.09 1544.28 PRIM_FILE      .\pstchip.dat
- C22.2          4327.81 1544.28 PRIM_FILE      .\pstchip.dat
- C25.2          4555.39 1544.28 PRIM_FILE      .\pstchip.dat
- C70.2           934.11  722.22 PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|       Comp definitions added:       1                                        |
-|       Components changed    :      12                                        |
-|       Slot property added   :      12                                        |
+|       Nets changed          :       7                                        |
 |                                                                              |
-|   Total ECO changes reported:      25                                        |
+|   Total ECO changes reported:       7                                        |
 |------------------------------------------------------------------------------|
