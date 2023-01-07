@@ -77,7 +77,21 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
+    (Netlist_TAB "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "G:\project_development\GitHub\ysyx3-pcb\MFG\20230106\BOM\ysyx3_pcb.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Value}\t{Reference}\t{PCB Footprint}\t{Quantity}")
+    (BOM_Header "Comment\tDesignator\tFootprint\tQuantity")
+    (BOM_Include_File
+       "G:\PROJECT_DEVELOPMENT\GITHUB\YSYX3-PCB\SCH\YSYX3_PCB.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
   (Folder "Outputs"
     (File ".\ysyx3_pcb.drc"
       (Type "Report"))
@@ -89,7 +103,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\netlist\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File "..\mfg\20230106\bom\ysyx3_pcb.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (GND_SIGNAL
@@ -206,14 +222,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 227"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 227"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1302 78 344")
-        (Scroll "-61 7")
-        (Zoom "58")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1302 78 344")
+        (Scroll "2872 1544")
+        (Zoom "232")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\YSYX3-PCB\SCH\YSYX3_PCB.DSN")
       (Schematic "SCHEMATIC1")
