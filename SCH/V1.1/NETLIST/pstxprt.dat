@@ -1,0 +1,3967 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Mar-15-2023 at 17:15:17 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='YSYX3_PCB';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS304@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins304@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins304@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624533@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624533@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624533@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C100 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS555864@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins555864@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins555864@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C101 'CAPACITOR-NON-POL_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS541932@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins541932@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins541932@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C102 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS571820@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins571820@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins571820@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C103 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS571868@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins571868@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins571868@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C104 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS571894@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins571894@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins571894@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C105 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS571920@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins571920@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins571920@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C106 'CAPACITOR-NON-POL_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS544081@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins544081@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins544081@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C107 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS555389@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins555389@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins555389@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C108 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS428241@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins428241@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins428241@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C109 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS774916@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins774916@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins774916@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624549@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624549@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624549@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C110 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS775354@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins775354@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins775354@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'CAPACITOR-NON-POL_C0402_15PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS575854@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins575854@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins575854@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C112 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS428425@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins428425@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins428425@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'CAPACITOR-NON-POL_C0402_15PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS575838@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins575838@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins575838@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C114 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS428721@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins428721@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins428721@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C115 'CAPACITOR-NON-POL_C0402_100PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS449867@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins449867@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins449867@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C116 'CAPACITOR-NON-POL_C0402_47PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS449893@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins449893@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins449893@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C117 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS719549@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins719549@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins719549@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C118 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS719565@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins719565@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins719565@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C119 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS719581@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins719581@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins719581@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624569@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624569@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624569@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C120 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS719597@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins719597@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins719597@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C121 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS601812@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins601812@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins601812@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C122 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS601838@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins601838@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins601838@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C123 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS602717@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins602717@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins602717@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C124 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS602743@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins602743@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins602743@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C125 'CAPACITOR-NON-POL_C0402_220PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS603790@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins603790@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins603790@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C126 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS429825@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins429825@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins429825@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C127 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS429845@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins429845@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins429845@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C128 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS429869@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins429869@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins429869@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C129 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS602521@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins602521@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins602521@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624433@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624433@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624433@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C130 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS602537@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins602537@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins602537@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C131 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS602575@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins602575@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins602575@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C132 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS595659@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins595659@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins595659@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C133 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS595802@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins595802@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins595802@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C134 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS595970@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins595970@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins595970@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C135 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS602601@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins602601@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins602601@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C136 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS608493@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins608493@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins608493@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C137 'CAPACITOR-NON-POL_C0805_100UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605462@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605462@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605462@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C138 'CAPACITOR-NON-POL_C0805_100UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605492@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605492@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605492@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C139 'CAPACITOR-NON-POL_C0402_220PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605969@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605969@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605969@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624485@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624485@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624485@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C140 'CAPACITOR-NON-POL_C0402_220PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605701@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605701@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605701@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624401@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624401@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624401@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS629029@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins629029@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins629029@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS629077@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins629077@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins629077@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS629093@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins629093@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins629093@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS628945@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins628945@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins628945@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS372@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins372@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins372@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS628977@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins628977@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins628977@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS629121@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins629121@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins629121@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS5321@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins5321@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins5321@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS5347@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins5347@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins5347@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS5373@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins5373@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins5373@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS5574@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins5574@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins5574@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS50540@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins50540@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins50540@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS50556@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins50556@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins50556@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS50841@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins50841@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins50841@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS50857@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins50857@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins50857@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS398@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins398@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins398@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS50913@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins50913@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins50913@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS50929@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins50929@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins50929@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS50945@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins50945@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins50945@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS50961@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins50961@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins50961@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS59291@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins59291@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins59291@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS59307@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins59307@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins59307@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS59323@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins59323@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins59323@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS59339@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins59339@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins59339@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS9808@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins9808@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins9808@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60730@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60730@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60730@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS424@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins424@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins424@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60610@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60610@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60610@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60626@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60626@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60626@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60750@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60750@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60750@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60790@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60790@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60790@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60806@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60806@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60806@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60822@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60822@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60822@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60838@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60838@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60838@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60854@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60854@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60854@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60870@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60870@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60870@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60642@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60642@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60642@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS93@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins93@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins93@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS60658@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins60658@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins60658@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS293686@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins293686@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins293686@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS293706@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins293706@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins293706@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS293738@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins293738@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins293738@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS293754@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins293754@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins293754@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS67738@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins67738@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins67738@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS67762@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins67762@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins67762@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS67794@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins67794@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins67794@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS67810@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins67810@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins67810@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS48926@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins48926@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins48926@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS144@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins144@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins144@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS48942@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins48942@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins48942@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS49670@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins49670@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins49670@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C62 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS49686@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins49686@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins49686@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C63 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS49995@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins49995@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins49995@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS50011@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins50011@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins50011@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS121044@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins121044@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins121044@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C66 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS121070@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins121070@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins121070@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C67 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS129260@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins129260@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins129260@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C68 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS88920@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins88920@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins88920@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C69 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS88946@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins88946@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins88946@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR-NON-POL_C0402_15PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS47554@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins47554@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins47554@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508704@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508704@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508704@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508556@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508556@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508556@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAPACITOR-NON-POL_C0402_10PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508540@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508540@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508540@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508452@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508452@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508452@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAPACITOR-NON-POL_C0402_10PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508524@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508524@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508524@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508338@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508338@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508338@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508598@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508598@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508598@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508720@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508720@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508720@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508468@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508468@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508468@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508688@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508688@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508688@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS47070@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins47070@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins47070@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS533804@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins533804@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins533804@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433320@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433320@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433320@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433336@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433336@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433336@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS434471@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins434471@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins434471@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS434007@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins434007@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins434007@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431702@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431702@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431702@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431718@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431718@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431718@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS444684@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins444684@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins444684@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431938@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431938@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431938@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS443928@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins443928@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins443928@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS47054@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins47054@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins47054@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS439714@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins439714@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins439714@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS439688@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins439688@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins439688@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS439170@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins439170@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins439170@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C93 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS438130@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins438130@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins438130@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS438104@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins438104@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins438104@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C95 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS535144@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins535144@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins535144@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS535088@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins535088@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins535088@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C97 'CAPACITOR-NON-POL_C0402_10PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS539558@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins539558@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins539558@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C98 'CAPACITOR-NON-POL_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS541948@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins541948@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins541948@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C99 'CAPACITOR-NON-POL_C0402_10UF':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS541352@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins541352@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins541352@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'TVS_DIODE_DOUBLE_SMA-2R00X1R80_':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS735285@ALL.TVS_DIODE_DOUBLE.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins735285@\all\.\tvs_diode_double.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins735285@\all\.\tvs_diode_double.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_L0805_0805_2A':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS5276@ALL.FUSE.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins5276@\all\.\fuse.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins5276@\all\.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ H1 'FIXING-HOLE_HOLE-3R10-4R10_FIXI':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS579533@ALL.FIXING-HOLE.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins579533@\all\.\fixing-hole.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins579533@\all\.\fixing-hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ H2 'FIXING-HOLE_HOLE-3R10-4R10_FIXI':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS579934@ALL.FIXING-HOLE.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins579934@\all\.\fixing-hole.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins579934@\all\.\fixing-hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ H3 'FIXING-HOLE_HOLE-3R10-4R10_FIXI':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS578673@ALL.FIXING-HOLE.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins578673@\all\.\fixing-hole.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins578673@\all\.\fixing-hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ H4 'FIXING-HOLE_HOLE-3R10-4R10_FIXI':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS579133@ALL.FIXING-HOLE.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins579133@\all\.\fixing-hole.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins579133@\all\.\fixing-hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'USB_TYPEC_USB-TYPEC-12-SM_USB_P':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS498604@ALL.USB_TYPEC.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins498604@\all\.\usb_typec.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins498604@\all\.\usb_typec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'USB_STD_TYPEA_USB-STD-TYPEA-4-S':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS440183@ALL.USB_STD_TYPEA.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins440183@\all\.\usb_std_typea.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins440183@\all\.\usb_std_typea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'RF-IPEX-3PIN_IPEX-3-2R95-SM-VF_':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS539593@ALL.RF-IPEX-3PIN.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins539593@\all\.\rf-ipex-3pin.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins539593@\all\.\rf-ipex-3pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'HEADER-6X1_HDR6X1-2R54-TM-VM_PM':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS571509@ALL.HEADER-6X1.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins571509@\all\.\header-6x1.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins571509@\all\.\header-6x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'PS2_PS2-6-TM-VF_PS2_PURPLE':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS445195@ALL.PS2.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins445195@\all\.\ps2.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins445195@\all\.\ps2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'DE-15_DE-15-TM-RF_VGA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS448921@ALL.DE-15.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins448921@\all\.\de-15.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins448921@\all\.\de-15.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'HEADER-2X1_HDR2X1-2R54-TM-VM_PL':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS592833@ALL.HEADER-2X1.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins592833@\all\.\header-2x1.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins592833@\all\.\header-2x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'PJ-342_AV-6-2R30X1R60-SM_PJ-342':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS606728@ALL.PJ-342.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins606728@\all\.\pj-342.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins606728@\all\.\pj-342.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'HEADER-2X1_HDR2X1-2R54-TM-VM_LS':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS600760@ALL.HEADER-2X1.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins600760@\all\.\header-2x1.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins600760@\all\.\header-2x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'PJ-342_AV-6-2R30X1R60-SM_PJ-342':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605424@ALL.PJ-342.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605424@\all\.\pj-342.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605424@\all\.\pj-342.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J19 'HEADER-2X1_HDR2X1-2R54-TM-VM_RS':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS429635@ALL.HEADER-2X1.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins429635@\all\.\header-2x1.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins429635@\all\.\header-2x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'DIP8-4_DIP8-4-7R62X7R62_DIP-OSC':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS255344@ALL.DIP8-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins255344@\all\.\dip8-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins255344@\all\.\dip8-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J20 'SODIMM-204_SODIMM-204-2R00X0R35':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS482660@ALL.SODIMM-204A.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins482660@\all\.\sodimm-204a.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page4_ins482660@\all\.\sodimm-204a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS482828@ALL.SODIMM-204B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins482828@\all\.\sodimm-204b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page4_ins482828@\all\.\sodimm-204b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ J3 'USB_TYPEC_USB-TYPEC-12-SM_DC_PW':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS638921@ALL.USB_TYPEC.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins638921@\all\.\usb_typec.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins638921@\all\.\usb_typec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'SD_MICRO_SD-MICRO-9-SM_SD_MICRO':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS68495@ALL.SD_MICRO.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins68495@\all\.\sd_micro.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins68495@\all\.\sd_micro.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'ACA-SPI-004-K02_ACA-SPI-004-K02':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508354@ALL.ACA-SPI-004-K02.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508354@\all\.\aca-spi-004-k02.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508354@\all\.\aca-spi-004-k02.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'SD_MICRO_SD-MICRO-9-SM_SD_MICRO':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433016@ALL.SD_MICRO.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433016@\all\.\sd_micro.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433016@\all\.\sd_micro.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER-2X1_HDR2X1-2R54-TM-VM_CA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS534538@ALL.HEADER-2X1.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins534538@\all\.\header-2x1.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins534538@\all\.\header-2x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'USB_TYPEC_USB-TYPEC-12-SM_PS_PW':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431111@ALL.USB_TYPEC.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431111@\all\.\usb_typec.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431111@\all\.\usb_typec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER-5X2_HDR5X2-2R54-TM-VF_JT':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS424652@ALL.HEADER-5X2.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins424652@\all\.\header-5x2.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins424652@\all\.\header-5x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'MAGNETIC-BEAD_L0805_600HM 100MH':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS46728@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins46728@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins46728@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'MAGNETIC-BEAD_L0805_600HM 100MH':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS13462@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins13462@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins13462@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'MAGNETIC-BEAD_L0805_600HM 100MH':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS16188@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins16188@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins16188@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'MAGNETIC-BEAD_L0805_600HM 100MH':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS38472@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins38472@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins38472@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'MAGNETIC-BEAD_L0805_600HM 100MH':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS34866@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins34866@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins34866@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'MAGNETIC-BEAD_L0805_600HM 100MH':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS34892@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins34892@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins34892@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'MAGNETIC-BEAD_L0805_600HM 100MH':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS84478@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins84478@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins84478@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'MAGNETIC-BEAD_L0805_600HM 100MH':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433058@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433058@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433058@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'MAGNETIC-BEAD_L0805_4.7UH':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS555160@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins555160@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins555160@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_LED0603_RED':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS2072@ALL.LED.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins2072@\all\.\led.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins2072@\all\.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED10 'LED_LED0603_BLUE':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS718005@ALL.LED.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins718005@\all\.\led.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins718005@\all\.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED11 'WS2812C_LED5050_WS2812C':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS717841@ALL.WS2812C.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins717841@\all\.\ws2812c.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins717841@\all\.\ws2812c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED12 'WS2812C_LED5050_WS2812C':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS717793@ALL.WS2812C.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins717793@\all\.\ws2812c.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins717793@\all\.\ws2812c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED13 'WS2812C_LED5050_WS2812C':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS717925@ALL.WS2812C.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins717925@\all\.\ws2812c.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins717925@\all\.\ws2812c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED14 'WS2812C_LED5050_WS2812C':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS717893@ALL.WS2812C.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins717893@\all\.\ws2812c.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins717893@\all\.\ws2812c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED2 'LED_LED0603_BLUE':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508382@ALL.LED.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508382@\all\.\led.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508382@\all\.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED3 'LED_LED0603_BLUE':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS559750@ALL.LED.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins559750@\all\.\led.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins559750@\all\.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED4 'LED_LED0603_BLUE':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS560149@ALL.LED.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins560149@\all\.\led.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins560149@\all\.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED5 'LED_LED0603_RED':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS757064@ALL.LED.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins757064@\all\.\led.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins757064@\all\.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED6 'WS2812C_LED5050_WS2812C':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS563970@ALL.WS2812C.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins563970@\all\.\ws2812c.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins563970@\all\.\ws2812c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED7 'WS2812C_LED5050_WS2812C':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS568093@ALL.WS2812C.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins568093@\all\.\ws2812c.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins568093@\all\.\ws2812c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED8 'WS2812C_LED5050_WS2812C':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS568931@ALL.WS2812C.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins568931@\all\.\ws2812c.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins568931@\all\.\ws2812c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED9 'WS2812C_LED5050_WS2812C':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS568895@ALL.WS2812C.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins568895@\all\.\ws2812c.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins568895@\all\.\ws2812c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MIC1 'MIC_MIC-2-TM_MIC':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS603885@ALL.MIC.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins603885@\all\.\mic.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins603885@\all\.\mic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_R0402_56K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS320@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins320@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins320@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624517@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624517@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624517@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R100 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS774948@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins774948@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins774948@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS718027@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins718027@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins718027@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R102 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS428317@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins428317@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins428317@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R103 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS428333@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins428333@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins428333@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS577975@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins577975@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins577975@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS428643@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins428643@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins428643@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 'RESISTOR_R0402_4K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450503@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450503@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450503@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R107 'RESISTOR_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450343@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450343@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450343@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450529@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450529@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450529@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R109 'RESISTOR_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450555@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450555@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450555@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624417@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624417@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624417@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R110 'RESISTOR_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450385@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450385@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450385@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'RESISTOR_R0402_510R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450581@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450581@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450581@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'RESISTOR_R0402_4K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450805@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450805@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450805@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450821@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450821@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450821@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R114 'RESISTOR_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450837@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450837@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450837@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R115 'RESISTOR_R0402_510R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS450853@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins450853@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins450853@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R116 'RESISTOR_R0402_4K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS451529@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins451529@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins451529@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R117 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS451545@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins451545@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins451545@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R118 'RESISTOR_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS451561@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins451561@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins451561@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R119 'RESISTOR_R0402_510R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS451577@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins451577@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins451577@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_R0402_14K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS629045@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins629045@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins629045@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R120 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS609633@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins609633@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins609633@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R121 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS602117@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins602117@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins602117@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R122 'RESISTOR_R0402_47K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS603706@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins603706@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins603706@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R123 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS429789@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins429789@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins429789@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R124 'RESISTOR_R0402_680R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS603118@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins603118@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins603118@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R125 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605110@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605110@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605110@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R126 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS429539@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins429539@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins429539@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R127 'RESISTOR_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS596269@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins596269@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins596269@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R128 'RESISTOR_R0402_47K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS606143@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins606143@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins606143@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R129 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605953@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605953@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605953@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS628961@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins628961@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins628961@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R130 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605993@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605993@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605993@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R131 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS429567@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins429567@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins429567@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R132 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605735@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605735@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605735@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R133 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS605649@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins605649@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins605649@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS629061@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins629061@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins629061@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106645@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins106645@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins106645@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS107278@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins107278@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins107278@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS107322@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins107322@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins107322@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS9299@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins9299@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins9299@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106904@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins106904@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins106904@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS2038@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins2038@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins2038@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106930@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins106930@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins106930@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS107348@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins107348@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins107348@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106956@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins106956@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins106956@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS107374@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins107374@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins107374@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS9325@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins9325@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins9325@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS10411@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins10411@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins10411@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS33879@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins33879@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins33879@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS33968@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins33968@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins33968@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS34048@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins34048@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins34048@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS34094@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins34094@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins34094@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS498676@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins498676@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins498676@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS34132@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins34132@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins34132@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS114976@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins114976@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins114976@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS114992@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins114992@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins114992@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115471@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115471@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115471@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115487@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115487@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115487@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115008@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115008@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115008@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115509@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115509@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115509@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115128@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115128@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115128@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115931@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115931@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115931@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115156@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115156@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115156@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS118@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins118@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins118@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'RESISTOR_R0402_5K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS115957@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins115957@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins115957@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS520725@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins520725@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins520725@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS341716@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins341716@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins341716@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS341732@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins341732@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins341732@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS86926@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins86926@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins86926@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS86874@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins86874@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins86874@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS86900@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins86900@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins86900@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS88456@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins88456@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins88456@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS87089@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins87089@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins87089@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS275274@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins275274@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins275274@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS498572@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins498572@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins498572@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS274472@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins274472@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins274472@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS87115@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins87115@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins87115@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS87141@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins87141@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins87141@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS130502@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins130502@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins130502@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508174@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508174@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508174@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'RESISTOR_R0402_330R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508672@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508672@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508672@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508142@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508142@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508142@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508576@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508576@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508576@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508158@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508158@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508158@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508614@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508614@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508614@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS46812@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins46812@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins46812@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS423999@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins423999@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins423999@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433114@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433114@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433114@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433130@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433130@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433130@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433150@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433150@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433150@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS423856@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins423856@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins423856@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'RESISTOR_R0402_120R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS533499@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins533499@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins533499@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'RESISTOR_R0402_33R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433300@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433300@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433300@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433190@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433190@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433190@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R68 'RESISTOR_R0402_20K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS423759@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins423759@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins423759@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433206@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433206@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433206@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS346@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins346@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins346@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'RESISTOR_R0402_20K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS423775@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins423775@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins423775@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R71 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433222@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433222@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433222@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS435137@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins435137@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins435137@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R73 'RESISTOR_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431183@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431183@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431183@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R74 'RESISTOR_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431079@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431079@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431079@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R75 'RESISTOR_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS435990@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins435990@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins435990@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R76 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431734@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431734@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431734@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R77 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431750@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431750@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431750@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R78 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431658@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431658@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431658@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS436350@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins436350@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins436350@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS216302@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins216302@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins216302@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431686@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431686@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431686@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'RESISTOR_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS443292@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins443292@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins443292@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R82 'RESISTOR_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS441581@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins441581@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins441581@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R83 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS441300@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins441300@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins441300@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R84 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431630@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431630@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431630@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R85 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS559776@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins559776@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins559776@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R86 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS560165@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins560165@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins560165@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R87 'RESISTOR_R0402_8.06K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS437132@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins437132@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins437132@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R88 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS560968@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins560968@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins560968@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R89 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS562882@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins562882@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins562882@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_R0402_26K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624501@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624501@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624501@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS757048@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins757048@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins757048@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS535176@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins535176@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins535176@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS554656@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins554656@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins554656@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS549541@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins549541@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins549541@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS549698@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins549698@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins549698@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS550081@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins550081@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins550081@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'RESISTOR_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS535298@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins535298@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins535298@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R97 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS550107@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins550107@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins550107@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS550133@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins550133@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins550133@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R99 'RESISTOR_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS707076@ALL.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins707076@\all\.\resistor.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins707076@\all\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN1 'RESARR_IS_4_RA-4-0402_10K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS425526@ALL.RESARR_IS_4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins425526@\all\.\resarr_is_4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins425526@\all\.\resarr_is_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW-SLIDE-SPDT_SW-3-12R7X6R6_PWR':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS686044@ALL.SW-SLIDE-SPDT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins686044@\all\.\sw-slide-spdt.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins686044@\all\.\sw-slide-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW10 'SW-KEY-4_SW-4-1R20X0R65-SM_HFP-':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508190@ALL.SW-KEY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508190@\all\.\sw-key-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508190@\all\.\sw-key-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW11 'SW-KEY-4_SW-4-1R20X0R65-SM_PS-E':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS700314@ALL.SW-KEY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins700314@\all\.\sw-key-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins700314@\all\.\sw-key-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW12 'SW-DIP-2_DIP-SW-2-1R52X0R76-SM_':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS423540@ALL.SW-DIP-2.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins423540@\all\.\sw-dip-2.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins423540@\all\.\sw-dip-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW13 'SW-KEY-4_SW-4-1R20X0R65-SM_PS-P':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS426909@ALL.SW-KEY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins426909@\all\.\sw-key-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins426909@\all\.\sw-key-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW14 'SW-KEY-4_SW-4-1R20X0R65-SM_PS-K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS560434@ALL.SW-KEY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins560434@\all\.\sw-key-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins560434@\all\.\sw-key-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW15 'SW-KEY-4_SW-4-1R20X0R65-SM_PS_1':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS562806@ALL.SW-KEY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins562806@\all\.\sw-key-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins562806@\all\.\sw-key-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW16 'SW-SLIDE-SPDT_SW-3-1R70X1R00-J-':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS753485@ALL.SW-SLIDE-SPDT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins753485@\all\.\sw-slide-spdt.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins753485@\all\.\sw-slide-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW17 'SW-KEY-4_SW-4-1R20X0R65-SM_PL-K':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS577903@ALL.SW-KEY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins577903@\all\.\sw-key-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins577903@\all\.\sw-key-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW18 'SW-SLIDE-SPDT_SW-3-1R70X1R00-_1':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS609599@ALL.SW-SLIDE-SPDT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins609599@\all\.\sw-slide-spdt.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins609599@\all\.\sw-slide-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW-SLIDE-SPDT_SW-3-12R7X6R6_P_1':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS645604@ALL.SW-SLIDE-SPDT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins645604@\all\.\sw-slide-spdt.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins645604@\all\.\sw-slide-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW-KEY-LOCK-DPDT_SW-6-LOCK-DPDT':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS630002@ALL.SW-KEY-LOCK-DPDT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins630002@\all\.\sw-key-lock-dpdt.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins630002@\all\.\sw-key-lock-dpdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SW-DIP-4_DIP-SW-4-1R27X0R76-SM_':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106317@ALL.SW-DIP-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins106317@\all\.\sw-dip-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins106317@\all\.\sw-dip-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'SW-DIP-6_DIP-SW-6-1R27X0R76-SM_':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS106374@ALL.SW-DIP-6.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins106374@\all\.\sw-dip-6.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins106374@\all\.\sw-dip-6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW6 'SW-KEY-4_SW-4-1R20X0R65-SM_YSYX':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS653596@ALL.SW-KEY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins653596@\all\.\sw-key-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins653596@\all\.\sw-key-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW7 'SW-SLIDE-SPDT_SW-3-1R70X1R00-_2':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS520691@ALL.SW-SLIDE-SPDT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins520691@\all\.\sw-slide-spdt.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins520691@\all\.\sw-slide-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW8 'SW-KEY-4_SW-4-1R20X0R65-SM_HF_1':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508630@ALL.SW-KEY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508630@\all\.\sw-key-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508630@\all\.\sw-key-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW9 'SW-KEY-4_SW-4-1R20X0R65-SM_HF_2':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508484@ALL.SW-KEY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508484@\all\.\sw-key-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508484@\all\.\sw-key-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TEST_POINT_TP1X1-1R00-SM_VCC_3V':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS631298@ALL.TEST_POINT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins631298@\all\.\test_point.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins631298@\all\.\test_point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TEST_POINT_TP1X1-1R00-SM_VCC_1V':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS631578@ALL.TEST_POINT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins631578@\all\.\test_point.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins631578@\all\.\test_point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TEST_POINT_TP1X1-1R00-SM_VCC__1':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS633237@ALL.TEST_POINT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins633237@\all\.\test_point.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins633237@\all\.\test_point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TEST_POINT_TP1X1-1R00-SM_CLK4DI':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS34699@ALL.TEST_POINT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins34699@\all\.\test_point.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins34699@\all\.\test_point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP5 'TEST_POINT_TP1X1-1R00-SM_OSC_OU':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS34752@ALL.TEST_POINT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins34752@\all\.\test_point.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins34752@\all\.\test_point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP6 'TEST_POINT_TP1X1-1R00-SM_HFP_VC':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS507884@ALL.TEST_POINT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins507884@\all\.\test_point.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins507884@\all\.\test_point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7 'TEST_POINT_TP1X1-1R00-SM_HFP_SW':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS507910@ALL.TEST_POINT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins507910@\all\.\test_point.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins507910@\all\.\test_point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP8 'TEST_POINT_TP1X1-1R00-SM_HFP__1':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS507924@ALL.TEST_POINT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins507924@\all\.\test_point.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins507924@\all\.\test_point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP9 'TEST_POINT_TP1X1-1R00-SM_HFP_GN':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS507944@ALL.TEST_POINT.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins507944@\all\.\test_point.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins507944@\all\.\test_point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'RT2515H_SOIC-8-1R80X0R60-THRM_R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS610947@ALL.RT2515H.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins610947@\all\.\rt2515h.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins610947@\all\.\rt2515h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS520481@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins520481@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins520481@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS520549@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins520549@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins520549@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS520629@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins520629@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins520629@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'STM/CH32F103C8T6_LQFP-48-1R20X0':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508230@ALL.STM/CH32F103C8T6.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508230@\all\.\stm/ch32f103c8t6.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508230@\all\.\stm/ch32f103c8t6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'W25Q128JVSIQ_SOIC-8-2R25X0R63_W':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508398@ALL.W25Q128JVSIQ.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508398@\all\.\w25q128jvsiq.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508398@\all\.\w25q128jvsiq.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'TJA1050_SOIC-8-1R80X0R60_TJA105':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS527734@ALL.TJA1050.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins527734@\all\.\tja1050.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins527734@\all\.\tja1050.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'TXS0108E_TSSOP-20-1R50X0R45_TXS':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS433560@ALL.TXS0108E.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins433560@\all\.\txs0108e.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins433560@\all\.\txs0108e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'CP2102_QFN-28-0R90X0R25_CP2102':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS431786@ALL.CP2102.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins431786@\all\.\cp2102.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins431786@\all\.\cp2102.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'USB3320C_QFN-32-0R80X0R28_USB33':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS436122@ALL.USB3320C.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins436122@\all\.\usb3320c.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins436122@\all\.\usb3320c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 'TXS0108E_TSSOP-20-1R50X0R45_TXS':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS534988@ALL.TXS0108E.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins534988@\all\.\txs0108e.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins534988@\all\.\txs0108e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'RT2515H_SOIC-8-1R80X0R60-THRM_R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS624721@ALL.RT2515H.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins624721@\all\.\rt2515h.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins624721@\all\.\rt2515h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'AP6212_QFN-44-1R50X0R60-TP_AP62':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS537840@ALL.AP6212.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins537840@\all\.\ap6212.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins537840@\all\.\ap6212.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U21 'AT24C64_SOIC-8-1R80X0R60_AT24C6':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS428213@ALL.AT24C64.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins428213@\all\.\at24c64.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins428213@\all\.\at24c64.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U22 'TXS0102_SOIC-8-1R40X0R30_TXS010':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS771285@ALL.TXS0102.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins771285@\all\.\txs0102.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins771285@\all\.\txs0102.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 'PCF8563B_SOIC-8-1R80X0R60_PCF85':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS428365@ALL.PCF8563B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins428365@\all\.\pcf8563b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins428365@\all\.\pcf8563b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U24 'W25Q128JVSIQ_SOIC-8-2R25X0R63_W':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS428597@ALL.W25Q128JVSIQ.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins428597@\all\.\w25q128jvsiq.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins428597@\all\.\w25q128jvsiq.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS585642@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins585642@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins585642@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U26 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS585720@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins585720@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins585720@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U27 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS586847@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins586847@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins586847@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U28 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS586921@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins586921@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins586921@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U29 'WM8960CGEFL/RV_QFN-32-0R90X0R28':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS429907@ALL.WM8960CGEFL/RV.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins429907@\all\.\wm8960cgefl/rv.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins429907@\all\.\wm8960cgefl/rv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'YSYX3-CHIP_LQFP-176-1R30X0R20_Y':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS1619@ALL.YSYX3-CHIP.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins1619@\all\.\ysyx3-chip.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins1619@\all\.\ysyx3-chip.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U30 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS588065@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins588065@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins588065@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U31 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS588139@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins588139@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins588139@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U32 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS588217@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins588217@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins588217@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U33 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS588283@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins588283@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins588283@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U34 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS588879@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins588879@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins588879@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U35 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS588953@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins588953@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins588953@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U36 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS589031@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins589031@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins589031@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U37 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS589097@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins589097@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins589097@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U38 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS589711@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins589711@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins589711@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U39 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS589785@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins589785@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins589785@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'RT2515H_SOIC-8-1R80X0R60-THRM_R':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS629221@ALL.RT2515H.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins629221@\all\.\rt2515h.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins629221@\all\.\rt2515h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'MAX811SEUS_SOT-143-4-1R30X0R60_':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS8937@ALL.MAX811SEUS.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins8937@\all\.\max811seus.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins8937@\all\.\max811seus.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS520763@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins520763@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins520763@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS520831@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins520831@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins520831@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'CP2102_QFN-28-0R90X0R25_CP2102':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS73375@ALL.CP2102.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins73375@\all\.\cp2102.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins73375@\all\.\cp2102.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'WAS3157B_SOT-363-6-0R80X0R40_WA':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS520413@ALL.WAS3157B.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins520413@\all\.\was3157b.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins520413@\all\.\was3157b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL-CRY-4_XTAL-4-3R20X2R50-SM_':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS508426@ALL.XTAL-CRY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins508426@\all\.\xtal-cry-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page1_ins508426@\all\.\xtal-cry-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X2 'XTAL-OSC_XTAL-4-3R20X2R50-SM_24':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS443161@ALL.XTAL-OSC.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins443161@\all\.\xtal-osc.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins443161@\all\.\xtal-osc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3 'XTAL-OSC_XTAL-4-3R20X2R50-SM_32':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS555820@ALL.XTAL-OSC.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins555820@\all\.\xtal-osc.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins555820@\all\.\xtal-osc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X4 'XTAL-CRY-4_XTAL-4-3R20X2R50-S_1':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS541912@ALL.XTAL-CRY-4.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins541912@\all\.\xtal-cry-4.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page2_ins541912@\all\.\xtal-cry-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X5 'XTAL-CRY-2_XTAL-2-3R20X1R50-SM_':;
+
+SECTION_NUMBER 1
+ '@YSYX3_PCB.SCHEMATIC1(SCH_1):INS709698@ALL.XTAL-CRY-2.NORMAL(CHIPS)':
+ C_PATH='@ysyx3_pcb.schematic1(sch_1):ins709698@\all\.\xtal-cry-2.normal\(chips)',
+ P_PATH='@ysyx3_pcb.schematic1(sch_1):page3_ins709698@\all\.\xtal-cry-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
