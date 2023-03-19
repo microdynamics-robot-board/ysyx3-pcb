@@ -227,8 +227,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1250 78 449")
-        (Scroll "30 0")
-        (Zoom "58")
+        (Scroll "3900 2410")
+        (Zoom "232")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\YSYX3_PCB\SCH\V1.1\YSYX3_PCB.DSN")
       (Schematic "SCHEMATIC1")
@@ -237,7 +237,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 182 1354 182 553")
-        (Scroll "53 153")
+        (Scroll "0 42")
         (Zoom "88")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\YSYX3_PCB\SCH\V1.1\YSYX3_PCB.DSN")
@@ -247,8 +247,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 957 78 449")
-        (Scroll "1578 33")
-        (Zoom "176")
+        (Scroll "-57 12")
+        (Zoom "44")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\YSYX3_PCB\SCH\V1.1\YSYX3_PCB.DSN")
       (Schematic "SCHEMATIC1")
@@ -257,18 +257,12 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1009 130 501")
-        (Scroll "0 320")
-        (Zoom "200")
+        (Scroll "0 54")
+        (Zoom "100")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\YSYX3_PCB\SCH\V1.1\YSYX3_PCB.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P04_SODIMM"))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1302 78 397"))
-      (Path "G:\project_development\GitHub\ysyx3_pcb\SCH\V1.1\ysyx3_pcb.drc")
-      (Scroll "144")))
+      (Page "P04_SODIMM")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "G:\project_development\GitHub\cadence_sch_lib")
