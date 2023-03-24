@@ -207,18 +207,26 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "g:\project_development\github\ysyx3-pcb\sch\ysyx3_pcb.dsn")
-      (Path "Design Resources"
-         "g:\project_development\github\ysyx3-pcb\sch\ysyx3_pcb.dsn"
-         "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Design Resources" ".\ysyx3_pcb.dsn")
+      (Path "Design Resources" ".\ysyx3_pcb.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\ysyx3_pcb.dsn" "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 227"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1250 52 418")
+        (Scroll "0 820")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "G:\PROJECT_DEVELOPMENT\GITHUB\YSYX3_PCB\SCH\V1.0\YSYX3_PCB.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "G:\project_development\GitHub\cadence_sch_lib")
